@@ -1,6 +1,8 @@
 # Informer-LSTM
 The code for paper "A Novel Informer-LSTM Hybrid Framework for Snowline Altitude Prediction".
-
+# GPU/CPU memory requirements
+RTX4060Ti-8G
+i5-13400F 16G
 # Dependencies
 - python == 3.9.20
 - numpy == 1.26.4
